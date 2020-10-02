@@ -6,14 +6,15 @@ export default class Navbars extends Component {
   render() {
     return (
       <Navbar bg="dark" expand="lg" variant="dark">
-        <Navbar.Brand href="/">
+        <Link to="/"  style={{textDecorationLine: "none", color:"white",fontSize:"20px"}}>
         <img
         alt=""
         src="https://img.icons8.com/fluent/48/000000/tasklist.png"
         width="30"
         height="30"
         className="d-inline-block align-top"
-      />{' '}MongoDB TODO App</Navbar.Brand>
+        
+      />MongoDB TODO App</Link>
         <Navbar.Toggle aria-controls="basic-navbar-nav" />
         <Navbar.Collapse id="basic-navbar-nav">
           <Nav className="mr-auto">
