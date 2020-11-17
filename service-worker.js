@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/mongodb-todo-app/precache-manifest.a3ac1c402b4f37034b9508bbaf7c2aaa.js"
+  "/mongodb-todo-app/precache-manifest.39d1cd4f03bb5090d389fdb57921c5e1.js"
 );
 
 self.addEventListener('message', (event) => {

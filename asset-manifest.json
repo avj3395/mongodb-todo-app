@@ -1,25 +1,25 @@
 {
   "files": {
     "main.css": "/mongodb-todo-app/static/css/main.616f1dfc.chunk.css",
-    "main.js": "/mongodb-todo-app/static/js/main.6687bd90.chunk.js",
-    "main.js.map": "/mongodb-todo-app/static/js/main.6687bd90.chunk.js.map",
+    "main.js": "/mongodb-todo-app/static/js/main.aca0bdb7.chunk.js",
+    "main.js.map": "/mongodb-todo-app/static/js/main.aca0bdb7.chunk.js.map",
     "runtime-main.js": "/mongodb-todo-app/static/js/runtime-main.2e51032c.js",
     "runtime-main.js.map": "/mongodb-todo-app/static/js/runtime-main.2e51032c.js.map",
     "static/css/2.2f73783b.chunk.css": "/mongodb-todo-app/static/css/2.2f73783b.chunk.css",
-    "static/js/2.2a84bff1.chunk.js": "/mongodb-todo-app/static/js/2.2a84bff1.chunk.js",
-    "static/js/2.2a84bff1.chunk.js.map": "/mongodb-todo-app/static/js/2.2a84bff1.chunk.js.map",
+    "static/js/2.2d02992d.chunk.js": "/mongodb-todo-app/static/js/2.2d02992d.chunk.js",
+    "static/js/2.2d02992d.chunk.js.map": "/mongodb-todo-app/static/js/2.2d02992d.chunk.js.map",
     "index.html": "/mongodb-todo-app/index.html",
-    "precache-manifest.a3ac1c402b4f37034b9508bbaf7c2aaa.js": "/mongodb-todo-app/precache-manifest.a3ac1c402b4f37034b9508bbaf7c2aaa.js",
+    "precache-manifest.39d1cd4f03bb5090d389fdb57921c5e1.js": "/mongodb-todo-app/precache-manifest.39d1cd4f03bb5090d389fdb57921c5e1.js",
     "service-worker.js": "/mongodb-todo-app/service-worker.js",
     "static/css/2.2f73783b.chunk.css.map": "/mongodb-todo-app/static/css/2.2f73783b.chunk.css.map",
     "static/css/main.616f1dfc.chunk.css.map": "/mongodb-todo-app/static/css/main.616f1dfc.chunk.css.map",
-    "static/js/2.2a84bff1.chunk.js.LICENSE.txt": "/mongodb-todo-app/static/js/2.2a84bff1.chunk.js.LICENSE.txt"
+    "static/js/2.2d02992d.chunk.js.LICENSE.txt": "/mongodb-todo-app/static/js/2.2d02992d.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.2e51032c.js",
     "static/css/2.2f73783b.chunk.css",
-    "static/js/2.2a84bff1.chunk.js",
+    "static/js/2.2d02992d.chunk.js",
     "static/css/main.616f1dfc.chunk.css",
-    "static/js/main.6687bd90.chunk.js"
+    "static/js/main.aca0bdb7.chunk.js"
   ]
 }
